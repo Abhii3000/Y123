@@ -5,3 +5,4 @@ Initial dataset was taken from https://github.com/khamidieh/predict_tc/blob/mast
 All elemental properties for element upto Rn has been stored in "Periodic Table of Elements".
 Odev and other parameters can be realized as given in parameter formation table in supplementary material.
 Whole process has been explained in the supplementary material.
+The New, Test and Train datasets are subject to change if models are trained again as the CV  and cvpartition is random, but the results should fairly remain the same.
